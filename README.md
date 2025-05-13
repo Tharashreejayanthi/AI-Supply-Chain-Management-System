@@ -82,9 +82,6 @@ This project is part of a multi-phase academic research initiative aimed at deve
    uvicorn phase5.main:app --reload
    ```
 
-4. **Access API documentation**
-   Visit: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
-
 ---
 
 ## 📊 Demo Capabilities
