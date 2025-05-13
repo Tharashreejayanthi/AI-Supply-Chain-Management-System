@@ -1,4 +1,3 @@
-Here's a cleaned-up and professional version of your `README.md`, with improved formatting, grammar, and consistency across sections:
 
 ---
 
